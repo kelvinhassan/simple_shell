@@ -1,7 +1,7 @@
 /*
  * File: main.c
- * Auth: Edwin Ngera
- *       Stephen kihuni
+ * Auth: Kelvin N
+ *       Patience O
  */
 
 #include "shell.h"

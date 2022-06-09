@@ -1,7 +1,7 @@
 /*
  * File: err_msgs1.c
- * Auth: Edwin Ngera
- *       Stephen Kihuni
+ * Auth: Kelvin N
+ *       Patience O
  */
 
 #include "shell.h"
